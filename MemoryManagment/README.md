@@ -3,6 +3,23 @@
 
 This folder contains a memory management simulator that implements partitioned memory management using the **First-Come, First-Served (FCFS)** scheduling algorithm for memory allocation. The simulator evaluates memory allocation based on fixed and variable partition sizes and tracks memory usage, fragmentation, and availability.
 
+## Partition Sizes
+The simulator allows you to choose between two predefined partition sizes:
+
+1. **Size 1**:
+   - Partition 1: 500MB
+   - Partition 2: 250MB
+   - Partition 3: 150MB
+   - Partition 4: 100MB
+
+2. **Size 2**:
+   - Partition 1: 300MB
+   - Partition 2: 300MB
+   - Partition 3: 350MB
+   - Partition 4: 50MB
+
+You can specify the desired partition size when running the test cases.
+
 ## Contents
 
 - **main.c**: The main source code for the memory management simulator.
@@ -63,3 +80,5 @@ Time: 50     PID: 1      Partition # of Entry: -      Partition # of Removal: 1 
 
 ## Customization
 You can create your own test files in the `Inputs` folder. When doing so, specify the processes (with arrival time and memory requirements) and observe how the simulator handles memory allocation. To run the custom test, simply update or create a new batch file in the `Scripts` folder and specify the input file in the command.
+
+You can also create custom partition sizes by modifying the code. The default partition sizes are defined in the source code, but you can update them to your preferred values in this [section](https://github.com/SajaFawagreh/Scheduler-Simulator/blob/375bce0a52c01be4e80cfccf0bc75a81801b02ae/MemoryManagment/main.c#L446C5-L456C6). Change these values to your desired partition sizes, then recompile the program to use the updated sizes.
