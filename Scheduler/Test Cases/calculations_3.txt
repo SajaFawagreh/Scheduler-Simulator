@@ -1,0 +1,2 @@
+Throughput      Average Turnaround Time   Average Waiting Time     
+0.003126        816.625000                95.375000                

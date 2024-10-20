@@ -1,0 +1,17 @@
+Time     PID      Partition # of Entry      Partition # of Removal    Total Used Memory    Total Free Memory    Total Usable Memory     Used Partitions    Free Partitions    Old State       New State      
+0        1001     0                                                   200                  800                  500                     0                  1 2 3              New             Ready          
+1        1002     1                                                   400                  600                  250                     0 1                2 3                New             Ready          
+413      1002                               1                         200                  800                  500                     0                  1 2 3              Running         Terminated     
+414      1003     1                                                   400                  600                  250                     0 1                2 3                New             Ready          
+474      1003                               1                         200                  800                  500                     0                  1 2 3              Running         Terminated     
+475      1004     1                                                   400                  600                  250                     0 1                2 3                New             Ready          
+633      1004                               1                         200                  800                  500                     0                  1 2 3              Running         Terminated     
+634      1005     1                                                   400                  600                  250                     0 1                2 3                New             Ready          
+909      1005                               1                         200                  800                  500                     0                  1 2 3              Running         Terminated     
+910      1006     1                                                   400                  600                  250                     0 1                2 3                New             Ready          
+1087     1006                               1                         200                  800                  500                     0                  1 2 3              Running         Terminated     
+1088     1007     1                                                   400                  600                  250                     0 1                2 3                New             Ready          
+1256     1007                               1                         200                  800                  500                     0                  1 2 3              Running         Terminated     
+1257     1008     1                                                   400                  600                  250                     0 1                2 3                New             Ready          
+1539     1008                               1                         200                  800                  500                     0                  1 2 3              Running         Terminated     
+2489     1001                               0                         0                    1000                 1000                                       0 1 2 3            Running         Terminated     

@@ -1,0 +1,6 @@
+Pid,Arrival Time,Total CPU Time,I/O Frequency,I/O Duration,Priority
+1,0,18,0,0,0
+2,3,7,0,0,0
+3,8,12,0,0,0
+4,11,10,0,0,0
+5,13,9,0,0,0
