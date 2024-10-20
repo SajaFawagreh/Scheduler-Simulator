@@ -1,0 +1,1 @@
+..\main Inputs\test_case_6.csv Outputs\output_6.txt size2

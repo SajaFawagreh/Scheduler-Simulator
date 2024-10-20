@@ -1,8 +1,7 @@
 /**
- * SYSC 4001 - Operating Systems
- * Lab section: A2
- * Assignment 2 Process Scheduling, Memory Management, Part 2
+ * Operating Systems
  * Design and Implementation of a Scheduler Simulator
+ * Memory Management
  *
  * @authors	Saja Fawagreh
  */

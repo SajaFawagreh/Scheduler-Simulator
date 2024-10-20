@@ -1,1 +1,0 @@
-..\main test_case_6.csv output_6.txt calculations_6.txt RoundRobin
