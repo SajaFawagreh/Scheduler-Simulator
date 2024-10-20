@@ -4,8 +4,7 @@
  * Assignment 2 Process Scheduling, Memory Management, Part 2
  * Design and Implementation of a Scheduler Simulator
  *
- * @authors	Saja Fawagreh, 1010217326
- *		    Dina Younes, 101231907
+ * @authors	Saja Fawagreh
  */
 
 #include <stdlib.h>
