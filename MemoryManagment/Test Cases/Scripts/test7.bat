@@ -1,1 +1,1 @@
-..\main Inputs\test_case_7.csv Outputs\output_7.txt size2
+..\MemoryManager Inputs\test_case_7.csv Outputs\output_7.txt size2
